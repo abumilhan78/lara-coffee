@@ -51,3 +51,6 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('/', 'frontendController');
+Route::resource('coffee', 'coffeeController');
+Route::resource('pengolahan', 'pengolahanController');
+Route::resource('kategori', 'kategoriController');

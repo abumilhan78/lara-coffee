@@ -60,17 +60,17 @@
                         <div class="col-md-12 mb-4">
                             <h4 class="h4">Efek Samping Kopi</h4>
                             <h2 class="h4">Efek samping minum kopi instan setiap hari
-Indonesia adalah negeri yang memiliki kopi sebagai salah satu komoditas unggulan. Siapa yang tidak kenal dengan kopi Luwak, kopi yang masuk ke dalam jajaran kopi termahal di dunia ini berasal dari tanah air Indonesia. Proses produksinya yang sulit dan hanya menghasilkan sedikit biji kopi namun memiliki rasa yang begitu nikmat bahkan mengalahkan kopi lainnya yang berasal dari negara penghasil kopi terbesar di dunia. Namun sayangnya, kesadaran masyarakat untuk menikmati kopi secara alami masih sangat kurang.</h2>
+                                            Indonesia adalah negeri yang memiliki kopi sebagai salah satu komoditas unggulan. Siapa yang tidak kenal dengan kopi Luwak, kopi yang masuk ke dalam jajaran kopi termahal di dunia ini berasal dari tanah air Indonesia. Proses produksinya yang sulit dan hanya menghasilkan sedikit biji kopi namun memiliki rasa yang begitu nikmat bahkan mengalahkan kopi lainnya yang berasal dari negara penghasil kopi terbesar di dunia.</h2>
                             <h2 class="h4">Meningkatknya resiko penyakit diabetes
-Penyakit satu ini tak dapat dihindari bila anda memiliki kebiasaan mengkonsumsi kopi instan. Ketahuiah bahwa kopi instan memang memiliki kafein yang anda butuhkan, namun kopi yang terkandung di sana hanyalah perasa kopi, bukan biji kopi seperti yang diiklankan.</h2>
+                                            Penyakit satu ini tak dapat dihindari bila anda memiliki kebiasaan mengkonsumsi kopi instan. Ketahuiah bahwa kopi instan memang memiliki kafein yang anda butuhkan, namun kopi yang terkandung di sana hanyalah perasa kopi, bukan biji kopi seperti yang diiklankan.</h2>
                             <h2 class="h4">Mengganggu kesehatan jantung
-Kopi instan memang mudah dibuat, karena itu banyak disukai oleh banyak orang. Penyuka kopi instan bahkan menjadikan minuman ini sebagai minuman wajib setiap harinya. Sayangnya, hal ini ternyata tidak baik bagi kesehatan jantung.</h2>
+                                            Kopi instan memang mudah dibuat, karena itu banyak disukai oleh banyak orang. Penyuka kopi instan bahkan menjadikan minuman ini sebagai minuman wajib setiap harinya. Sayangnya, hal ini ternyata tidak baik bagi kesehatan jantung.</h2>
                             <h2 class="h4">Meningkatnya resiko hipertensi
-Tak hanya mengkonsumsi jenis makanan tertentu saja yang meningkatkan resiko hipertensi, bahkan meminum kopi instan saja dapat meningkatkan resiko hipertensi. </h2>
+                                            Tak hanya mengkonsumsi jenis makanan tertentu saja yang meningkatkan resiko hipertensi, bahkan meminum kopi instan saja dapat meningkatkan resiko hipertensi. </h2>
                             <h2 class="h4">Kolesterol yang mengintai
-Efek samping minum kopi instan setiap hari salah satunya adalah meningkatnya kadar kolesterol. Hal ini disebabkan oleh krimer yang terkandung di dalam kopi instan</h2>
+                                            Efek samping minum kopi instan setiap hari salah satunya adalah meningkatnya kadar kolesterol. Hal ini disebabkan oleh krimer yang terkandung di dalam kopi instan</h2>
                             <h2 class="h4">Memicu kanker
-Banyak orang yang menganggap bahwa kopi hitam itu tidak baik dan berbondong-bondong beralih ke kopi putih. Padahal, kopi putih yang mereka konsumsi asalnya dari kopi instan yang justru lebih berbahaya dari kopi hitam. </h2>
+                                            Banyak orang yang menganggap bahwa kopi hitam itu tidak baik dan berbondong-bondong beralih ke kopi putih. Padahal, kopi putih yang mereka konsumsi asalnya dari kopi instan yang justru lebih berbahaya dari kopi hitam. </h2>
                         </div>
 
 

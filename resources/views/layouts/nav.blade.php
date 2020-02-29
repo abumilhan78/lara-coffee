@@ -11,7 +11,7 @@
 	          <li class="nav-item"><a href="jenis" class="nav-link">Jenis Biji Kopi</a></li>
 	          <li class="nav-item"><a href="pembuatan" class="nav-link">Pembuatan Kopi</a></li>
 	          <li class="nav-item"><a href="efek" class="nav-link">Efek Samping Kopi</a></li>
-	          <li class="nav-item"><a href="pengertian" class="nav-link">Pengertian Kopi</a></li>
+	          {{-- <li class="nav-item"><a href="pengertian" class="nav-link">Pengertian Kopi</a></li> --}}
 	          <li class="nav-item"><a href="manfaat" class="nav-link">Manfaat Kopi</a></li>
 	          <li class="nav-item dropdown">
 

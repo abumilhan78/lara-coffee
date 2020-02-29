@@ -33,7 +33,7 @@
 
     <section class="home-slider owl-carousel">
 
-      <div class="slider-item" style="background-image: url(assets/frontend/coffee/images/bg_3.jpg);" data-stellar-background-ratio="0.5">
+      <div class="slider-item" style="background-image: url(assets/frontend/coffee/images/kopi.jpg);" data-stellar-background-ratio="0.5">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row slider-text justify-content-center align-items-center">
@@ -59,9 +59,7 @@
 	        <div>
 	  				<p>
 
-Kopi adalah sejenis minuman yang berasal dari proses pengolahan dan ekstraksi biji tanaman kopi. Kata kopi sendiri berasal dari bahasa Arab qahwah yang berarti kekuatan, karena pada awalnya kopi digunakan sebagai makanan berenergi tinggi. Kata qahwah kembali mengalami perubahan menjadi kahveh yang berasal dari bahasa Turki dan kemudian berubah lagi menjadi koffie dalam bahasa Belanda. Penggunaan kata koffie segera diserap ke dalam bahasa Indonesia menjadi kata kopi yang dikenal saat ini.
-
-Secara umum, terdapat dua jenis biji kopi, yaitu arabika (kualitas terbaik) dan robusta. </p>
+Kopi adalah sejenis minuman yang berasal dari proses pengolahan dan ekstraksi biji tanaman kopi. Kata kopi sendiri berasal dari bahasa Arab qahwah yang berarti kekuatan, karena pada awalnya kopi digunakan sebagai makanan berenergi tinggi. Penggunaan kata koffie segera diserap ke dalam bahasa Indonesia menjadi kata kopi yang dikenal saat ini. dua jenis biji kopi, yaitu arabika (kualitas terbaik) dan robusta. </p>
 	  			</div>
   			</div>
     	</div>

@@ -67,7 +67,7 @@ Secara umum, terdapat dua jenis biji kopi, yaitu arabika (kualitas terbaik) dan 
 	  			</div>
   			</div>
     	</div>
-    </section>
+    </section><br>
 
     <section class="ftco-about d-md-flex">
     	<div class="one-half img" style="background-image: url(assets/frontend/coffee/images/toraja.jpg);"></div>
